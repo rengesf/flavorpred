@@ -1,8 +1,5 @@
-OQ/OSA;floral;fruit;solventy;soapy;sweet;wood;nutty;spicy;oily;sour;sulphury;stale;peat;feinty;cereal;green/grassy;malt;primary taste;mouthfeel;nasal effects;dried fruits;aftertaste;complexity
+;floral;fruit;solventy;soapy;sweet;wood;nutty;spicy;oily;sour;sulphury;stale;peat;feinty;cereal;green/grassy;malt;primary taste;mouthfeel;nasal effects;dried fruits;aftertaste;complexity
 fresh flowers;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-floral;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-fruit;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-green;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0
 perfumed;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
 fresh fruit;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
 dried fruit;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0
@@ -46,3 +43,6 @@ leafy;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0
 herbal;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0
 green vegetables;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0
 grass;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0
+herbaceous;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+ligneous;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+vinous;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
