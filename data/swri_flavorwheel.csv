@@ -1,0 +1,144 @@
+﻿OSA;OQ;OD
+peaty;Burnt;Tar
+peaty;Burnt;char
+peaty;Burnt;ash
+peaty;Smoky;Burning wood
+peaty;Smoky;smooked foods barbeque
+peaty;Smoky;bonfire
+peaty;Medicinal;Antiseptic
+peaty;Medicinal;TCP
+peaty;Medicinal;carbolic soap
+peaty;Medicinal;first aid kit
+feinty;Leathery;Horse saddle
+feinty;Leathery;leather upholstery
+feinty;Leathery;worn leather
+feinty;Tobacco;Dried pipe tobacco
+feinty;Tobacco;stale tobacco
+feinty;Sweaty;Sweaty
+cereal;Dry cereals;digestive biscuits
+cereal;Dry cereals;Malted barley
+cereal;Dry cereals;popcorn
+cereal;Wet cereals;Mash
+cereal;Wet cereals;wort
+cereal;Wet cereals;malt extract
+cereal;Wet cereals;draff
+cereal;Wet cereals;porridge
+Green/grassy;leafy;Geranium leaves
+Green/grassy;leafy;freshly cut grass
+Green/grassy;leafy;tomato plants
+Green/grassy;Herbal;Fresh herbs
+Green/grassy;Herbal;dried herbs
+Green/grassy;Green vegetables;Green peppers
+Green/grassy;Green vegetables;fresh peas
+Green/grassy;Green vegetables;cucumber
+Green/grassy;Green vegetables;lettuce
+Floral;Fresh flowers;Roses
+Floral;Fresh flowers;violets
+Floral;Fresh flowers;lavender
+Floral;Perfumed;scented
+Floral;Perfumed;Fragrant
+Fruity ;Fresh fruit;Apples
+Fruity ;Fresh fruit;tropical fruit
+Fruity ;Fresh fruit;pears
+Fruity ;Fresh fruit;bananas
+Fruity ;Dried fruit;sultanas
+Fruity ;Dried fruit;Raisins
+Fruity ;Dried fruit;prunes dates
+Fruity ;Dried fruit;fruit cake
+Fruity ;Citrus;Lemons
+Fruity ;Citrus;oranges
+Fruity ;Citrus;limes
+Fruity ;Citrus;grapefruit
+Fruity ;Artificial fruit flavourings Citrus;Bubblegum
+Fruity ;Artificial fruit flavourings Citrus;peardrops
+Fruity ;Artificial fruit flavourings Citrus;candy
+Fruity ;Artificial fruit flavourings Citrus;esters
+Solvently;Nail varnish remover;Nail varnish remover
+Soapy;Unperfumed soap;Unperfumed soap
+Sweet;Vanilla;vanilla pods
+Sweet;Vanilla;ice ceam
+Sweet;Vanilla;custard
+Sweet;Honey;Honeycomb
+Sweet;Honey;sugar puff
+Sweet;Toffee;Butterscotch
+Sweet;Toffee;fudge
+Sweet;Toffee;brown sugar
+Sweet;Toffee;treacle
+Woody;New wood;sawdust
+Woody;New wood;pencil sharpening
+Woody;New wood;resinous
+Woody;Okay;toasted oak
+Nutty;Coconut;Dessicated coconut
+Nutty;Coconut;coconut milk
+Nutty;Coconut;gorse flowers
+Nutty;Nuts;Almond
+Nutty;Nuts;peanuts
+Nutty;Nuts;brazil nuts
+Nutty;Nuts;hazelnuts
+Nutty;Toasted;Burnt toast
+Nutty;Toasted;cocoa
+Nutty;Toasted;coffee
+Nutty;Toasted;roasted beans
+Spicy;Dried spice;Clove
+Spicy;Dried spice;cinnamon
+Spicy;Dried spice;ginger
+Spicy;Dried spice;nutmeg
+Spicy;Peppery;Black pepper
+Oily;Buttery ;Melted butter
+Oily;Buttery ;cream
+Oily;Buttery ;dairy
+Oily;Waxy;Candles
+Oily;Waxy;wax crayons 
+Oily;Waxy;beeswax
+Oily;Oils/fats;Linseed oil
+Oily;Oils/fats;meat fat
+Oily;Oils/fats;greasy
+Oily;Oils/fats;engine oil
+Oily;Oils/fats;chip fat
+Sour;Vinegary;Malt vinegar
+Sour;Vinegary;acidic
+Sour;Cheesy;Blue cheese
+Sour;Cheesy;mature cheddar
+Sour;Cheesy;parmesan
+Sour;Vomit;rancid
+Sour;Vomit;Baby sick
+Sulphury;Cooked vegetables ;Cabbage
+Sulphury;Cooked vegetables ;brussels sprouts
+Sulphury;Cooked vegetables ;sweetcorn
+Sulphury;Cooked vegetables ;boiled potatoes
+Sulphury;Rubbery;Tyres
+Sulphury;Rubbery;rubber tubing
+Sulphury;Rubbery;plimsols 
+Sulphury;Struck match ;Gassy
+Sulphury;Struck match ;spent fireworks
+Sulphury;Decaying;Rotten vegetables
+Sulphury;Decaying;rotten eggs
+Sulphury;Decaying;sweetcorn
+Sulphury;Decaying;boiled potatoes 
+Sulphury;Meaty ;bovril
+Sulphury;Meaty ;marmite
+Sulphury;Meaty ;Beefy
+Stale;Earthy;Damp soil
+Stale;Earthy;mushrooms
+Stale;Musty;Corked
+Stale;Musty;damp wood
+Stale;Musty;wet cardboard/paper
+Stale;Metallic;Rust
+Stale;Metallic;wet iron
+Stale;Metallic;coins
+peaty;peaty;peaty
+feinty;feinty;feinty
+cereal;cereal;cereal
+Green/grassy;Green/grassy;Green/grassy
+Floral;Floral;Floral
+Fruity ;Fruity ;Fruity 
+Solvently;Solvently;Solvently
+Soapy;Soapy;Soapy
+Sweet;Sweet;Sweet
+Woody;Woody;Woody
+Nutty;Nutty;Nutty
+Spicy;Spicy;Spicy
+Oily;Oily;Oily
+Sour;Sour;Sour
+Sulphury;Sulphury;Sulphury
+Stale;Stale;Stale
