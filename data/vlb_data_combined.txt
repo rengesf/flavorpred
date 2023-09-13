@@ -1,4 +1,4 @@
-panelist,samplekey,floral,fruit,wood,complexity,malt,sweet,peat,dried_fruits,aftertaste,date
+panelist,samplekey,Floral,Fruity,Woody,Complexity,Malt,Sweet,Peaty,Dried_fruits,Aftertaste,date
 1,000656,50,20,60,50,30,30,50,40,40,2023-01-12
 1,000657,30,40,60,40,40,30,10,30,60,2023-01-12
 1,000658,30,50,50,50,40,40,10,40,70,2023-01-12

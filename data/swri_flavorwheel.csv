@@ -1,28 +1,28 @@
 ﻿OSA;OQ;OD
-peaty;Burnt;Tar
-peaty;Burnt;char
-peaty;Burnt;ash
-peaty;Smoky;Burning wood
-peaty;Smoky;smoked foods barbeque
-peaty;Smoky;bonfire
-peaty;Medicinal;Antiseptic
-peaty;Medicinal;TCP
-peaty;Medicinal;carbolic soap
-peaty;Medicinal;first aid kit
-feinty;Leathery;Horse saddle
-feinty;Leathery;leather upholstery
-feinty;Leathery;worn leather
-feinty;Tobacco;Dried pipe tobacco
-feinty;Tobacco;stale tobacco
-feinty;Sweaty;Sweaty
-cereal;Dry cereals;digestive biscuits
-cereal;Dry cereals;Malted barley
-cereal;Dry cereals;popcorn
-cereal;Wet cereals;Mash
-cereal;Wet cereals;wort
-cereal;Wet cereals;malt extract
-cereal;Wet cereals;draff
-cereal;Wet cereals;porridge
+Peaty;Burnt;Tar
+Peaty;Burnt;char
+Peaty;Burnt;ash
+Peaty;Smoky;Burning wood
+Peaty;Smoky;smoked foods barbeque
+Peaty;Smoky;bonfire
+Peaty;Medicinal;Antiseptic
+Peaty;Medicinal;TCP
+Peaty;Medicinal;carbolic soap
+Peaty;Medicinal;first aid kit
+Feinty;Leathery;Horse saddle
+Feinty;Leathery;leather upholstery
+Feinty;Leathery;worn leather
+Feinty;Tobacco;Dried pipe tobacco
+Feinty;Tobacco;stale tobacco
+Feinty;Sweaty;Sweaty
+Cereal;Dry cereals;digestive biscuits
+Cereal;Dry cereals;Malted barley
+Cereal;Dry cereals;popcorn
+Cereal;Wet cereals;Mash
+Cereal;Wet cereals;wort
+Cereal;Wet cereals;malt extract
+Cereal;Wet cereals;draff
+Cereal;Wet cereals;porridge
 Green/grassy;leafy;Geranium leaves
 Green/grassy;leafy;freshly cut grass
 Green/grassy;leafy;tomato plants
@@ -37,22 +37,22 @@ Floral;Fresh flowers;violets
 Floral;Fresh flowers;lavender
 Floral;Perfumed;scented
 Floral;Perfumed;Fragrant
-Fruity ;Fresh fruit;Apples
-Fruity ;Fresh fruit;tropical fruit
-Fruity ;Fresh fruit;pears
-Fruity ;Fresh fruit;bananas
-Fruity ;Dried fruit;sultanas
-Fruity ;Dried fruit;Raisins
-Fruity ;Dried fruit;prunes dates
-Fruity ;Dried fruit;fruit cake
-Fruity ;Citrus;Lemons
-Fruity ;Citrus;oranges
-Fruity ;Citrus;limes
-Fruity ;Citrus;grapefruit
-Fruity ;Artificial fruit flavourings;Bubblegum
-Fruity ;Artificial fruit flavourings;peardrops
-Fruity ;Artificial fruit flavourings;candy
-Fruity ;Artificial fruit flavourings;esters
+Fruity;Fresh fruit;Apples
+Fruity;Fresh fruit;tropical fruit
+Fruity;Fresh fruit;pears
+Fruity;Fresh fruit;bananas
+Fruity;Dried fruit;sultanas
+Fruity;Dried fruit;Raisins
+Fruity;Dried fruit;prunes dates
+Fruity;Dried fruit;fruit cake
+Fruity;Citrus;Lemons
+Fruity;Citrus;oranges
+Fruity;Citrus;limes
+Fruity;Citrus;grapefruit
+Fruity;Artificial fruit flavourings;Bubblegum
+Fruity;Artificial fruit flavourings;peardrops
+Fruity;Artificial fruit flavourings;candy
+Fruity;Artificial fruit flavourings;esters
 Solvently;Nail varnish remover;Nail varnish remover
 Soapy;Unperfumed soap;Unperfumed soap
 Sweet;Vanilla;vanilla pods
@@ -126,12 +126,12 @@ Stale;Musty;wet cardboard/paper
 Stale;Metallic;Rust
 Stale;Metallic;wet iron
 Stale;Metallic;coins
-peaty;peaty;peaty
-feinty;feinty;feinty
-cereal;cereal;cereal
+Peaty;Peaty;Peaty
+Feinty;Feinty;Feinty
+Cereal;Cereal;Cereal
 Green/grassy;Green/grassy;Green/grassy
 Floral;Floral;Floral
-Fruity ;Fruity ;Fruity 
+Fruity;Fruity;Fruity
 Solvently;Solvently;Solvently
 Soapy;Soapy;Soapy
 Sweet;Sweet;Sweet
